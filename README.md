@@ -36,6 +36,9 @@ Bootstrapped connected smartwatch platform for Chinese market.
 Digital agency, developing software for different clients.
 
 - Global coffee brand ecommerce plaform
+- Internet connected vacuum cleaner
+- Car brand sales & marketing platform
+- Customer experience platform for bank
 
 ### Technical lead
 
