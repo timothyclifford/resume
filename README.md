@@ -12,11 +12,11 @@
 
 Digital ventures is a corporate startup incubator who build and launch new digital companies in partnership with large corporates.
 
-Neobank (Switzerland)
-Mobile payment app (South Africa)
-Mobility platform (Germany)
-Material search engine & sourcing (Germany)
-Freight logistics platform (Netherlands)
+- Neobank (Switzerland)
+- Mobile payment app (South Africa)
+- Mobility platform (Germany)
+- Material search engine & sourcing (Germany)
+- Freight logistics platform (Netherlands)
 
 ### Solution architect
 
