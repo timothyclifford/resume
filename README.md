@@ -15,6 +15,7 @@ Digital ventures is a corporate startup incubator who build and launch new digit
 - Neobank (Switzerland)
 - Mobile payment app (South Africa)
 - Mobility platform (Germany)
+- IoT factory prototype (Germany)
 - Material search engine & sourcing (Germany)
 - Freight logistics platform (Netherlands)
 
