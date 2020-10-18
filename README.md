@@ -6,11 +6,13 @@
 
 ## Employment history
 
-### Lead engineer
+### vCTO / head of engineering / lead engineer
 
 2016 to 2020 - BCG Digital Ventures, Berlin
 
 Digital ventures is a corporate startup incubator who build and launch new digital companies in partnership with large corporates.
+
+Launched startups in different industries, mostly in Europe, typically acting as CTO / engineering manager for the initial 6-9 months.
 
 - Neobank (Switzerland)
 - Mobile payment app (South Africa)
@@ -75,19 +77,19 @@ Supporting the carsales.com.au software & product teams.
 - Pairing with development teams
 - Monitoring systems
 
+## Technologies
+
+Comfortable across the full stack, in the last few years have been more active building backend services and infrastructure.
+
+Not religious about languages or frameworks, prefer to use the right tool for the job and ideally not reinventing the wheel.
+
 ## Certifications
 
 - Kubernetes Administrator
 - AWS Solution Architect
 - Data Analyst Nanodegree
 
-## Computer languages
-
-Try not to get stuck on languages or frameworks, prefer using the right tool for the job.
-
-Can pick up most technologies people throw at me, just don't ask me to make a website look nice in IE8.
-
-## Human languages
+## Languages
 
 - English native
 - German B2
