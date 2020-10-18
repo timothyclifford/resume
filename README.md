@@ -10,9 +10,9 @@
 
 2016 to 2020 - BCG Digital Ventures, Berlin
 
-Digital ventures is a corporate startup incubator who build and launch new digital companies in partnership with large corporates.
+Digital Ventures is a corporate startup incubator who build and launch new digital companies in partnership with large corporates.
 
-Launched startups in different industries, mostly in Europe, typically acting as CTO / engineering manager for the initial 6-9 months.
+During this time, launched startups in different industries, mostly in Europe, typically acting as CTO / engineering manager for the initial 6-9 months.
 
 - Neobank (Switzerland)
 - Mobile payment app (South Africa)
@@ -25,7 +25,7 @@ Launched startups in different industries, mostly in Europe, typically acting as
 
 2016 - AKQA, Shanghai
 
-Bootstrapped connected smartwatch platform for Chinese market.
+Bootstrapped global connected smartwatch platform before launch into the Chinese market.
 
 - Sourced local product and technology partners
 - Designed platform architecture & tech stack
@@ -53,7 +53,7 @@ Leading tech team in Isobar Sydney office.
 - Client services & sales
 - Developing & presenting pitches
 - Helped design & build Australia's first video streaming platform
-- Live event streaming
+- Live event streaming platform for fashion brand
 
 ### Senior engineer
 
